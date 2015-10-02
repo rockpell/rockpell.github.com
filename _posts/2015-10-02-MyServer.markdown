@@ -2,7 +2,6 @@
 layout: post
 title:  "My Server"
 date:   2015-10-202 22:47:00
-categories: jekyll update
 ---
 
 ec2-54-178-139-204.ap-northeast-1.compute.amazonaws.com
